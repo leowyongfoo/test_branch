@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Flutter App in master branch test push',
+      title: 'Flutter App in master branch test push master change',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
