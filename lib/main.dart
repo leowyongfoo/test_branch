@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Flutter App in test branch test yongfoo gjtihh',
+      title: 'Flutter App in master branch test push master change',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
