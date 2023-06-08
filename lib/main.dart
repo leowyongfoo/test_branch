@@ -7,9 +7,8 @@ void main() {
 
 class MyApp extends StatelessWidget {
   //benson testing branch
-  //test1 added new feature
   //test1 feature new branch
-  //test2 feature
+  //test2  new feature added
   const MyApp({Key? key}) : super(key: key);
 
   // This widget is the root of your application.
