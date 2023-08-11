@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'New lexus app, return and fix bug while working on new feature, try making changes and stash',
+      title: 'New lexus app, return and fix bug while working on new feature, try making changes and stash, back to version1 again for debugging',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
