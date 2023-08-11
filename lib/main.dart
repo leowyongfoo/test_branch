@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Flutter App MAKE CHANGES',
+      title: 'New lexus app',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
