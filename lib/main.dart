@@ -17,9 +17,9 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'New lexus app, return and fix bug while working on new feature, try making changes and stash, back to version1 again for debugging',
+      title: 'New lexus app, version2',
       theme: ThemeData(
-        primarySwatch: Colors.blue,
+        colorScheme: ColorScheme.fromSwatch(primarySwatch: Colors.blue).copyWith(background: Colors.red)
       ),
       home: const WelcomePage()
     );
